@@ -1,0 +1,42 @@
+
+body {
+	width: 100%;
+	height:100%;
+	background-image: url("../img/forestpoof.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+
+img {
+	width: 550px;
+	height: 400px;
+
+}
+
+#game-container {
+	background-image: url("../img/wood2.jpg");
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	position: relative;
+	left:50px; 
+	top:50px;
+	right:50px;
+	padding-left: 55px;
+	width:650px; 
+	height:600px;
+	color:white;
+
+}
+
+#inventoryitem{
+	width
+	
+	
+	
+
+}
+
+
